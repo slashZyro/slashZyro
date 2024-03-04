@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hanz Patrick Yu</h1>
 <h3 align="center">Soon to be modern day starving artist</h3>
 
+<h4 align="center">This is my creative account, for my school account check here: <a href="https://github.com/DLSYu">DLSYu</a></h4>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slashzyro" alt="slashzyro" /></a> </p>
 
 - 🔭 I’m currently working on [Hello-World](https://github.com/slashZyro/Hello-World)
