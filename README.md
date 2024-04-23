@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Hello-World](https://github.com/slashZyro/Hello-World)
 
-- 🌱 I’m currently learning **2D Unity Game Development**
+- 🌱 I’m currently learning **Vue JS**, and taking a break from learning **2D Unity Game Development**
 
 - 👨‍💻 My favorite projects are available at [slashZyro.github.io](slashZyro.github.io)
 
